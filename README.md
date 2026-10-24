@@ -14,7 +14,7 @@ The reason is to learn and teach it to others.
  
 ## Progress
  
-- [ ] HTML skeleton and bilingual structure
+- [X] HTML skeleton and bilingual structure
 - [ ] Base styling
 - [ ] Explanations for each section
 - [ ] Architecture diagram
